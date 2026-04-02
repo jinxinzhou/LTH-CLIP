@@ -1,0 +1,14 @@
+# Keep only visualization in repo assets
+assets/atr.png
+assets/ssr.png
+assets/normal_act.png
+assets/sparse_act.png
+assets/position.png
+assets/sample.png
+assets/layerwise_roc_clip_voc_b-16.png
+assets/layerwise_roc_clip_context_b-16.png
+assets/layerwise_roc_clip_voc_l-14_fixed.png
+assets/layerwise_roc_clip_ade_l-14_fixed.png
+assets/auc_per_head_context_b16_new.png
+assets/auc_per_head_ade_b16_new.png
+assets/auc_per_head_stuff_b16_new.png
