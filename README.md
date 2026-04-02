@@ -11,7 +11,7 @@
                      Zhihui Zhu</a><sup>1</sup>
     <br>
     <sup>1</sup>The Ohio State University
-    <br> <strong>TMLR 2026</strong>
+    <br> <a href="https://jmlr.org/tmlr/"><strong>TMLR 2026</strong></a>
     </br>
   <a href="https://arxiv.org/abs/2510.23894"><strong>Paper</strong></a> | <a href="https://jinxinzhou.github.io/LTH-CLIP/"><strong>Project Page</strong></a>
   </p>
